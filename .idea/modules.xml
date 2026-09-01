@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Emergency Rescue Robot/Emergency Rescue Robot.iml" filepath="$PROJECT_DIR$/Emergency Rescue Robot/Emergency Rescue Robot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File Handling/File Handling.iml" filepath="$PROJECT_DIR$/File Handling/File Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Other/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Other/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab Cycle 1.iml" filepath="$PROJECT_DIR$/Lab Cycle 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Other/Other.iml" filepath="$PROJECT_DIR$/Other/Other.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smart Device Control System/Smart Device Control System.iml" filepath="$PROJECT_DIR$/Smart Device Control System/Smart Device Control System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UniversityEvaluationSystem/UniversityEvaluationSystem.iml" filepath="$PROJECT_DIR$/UniversityEvaluationSystem/UniversityEvaluationSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam/exam.iml" filepath="$PROJECT_DIR$/exam/exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poly/poly.iml" filepath="$PROJECT_DIR$/poly/poly.iml" />
     </modules>
   </component>
 </project>
